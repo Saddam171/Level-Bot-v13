@@ -1,0 +1,14 @@
+{
+    "env": {
+        "PREFIX": "r!",
+        "MongoDB_TOKEN": "mongodb+srv://RoshanGamer:public@cluster0.kyoy7.mongodb.net/Public1?retryWrites=true&w=majority"
+    },
+  "botlogs": {
+        "errorLogsChannel": "968294866364796978"
+    },
+    "events": {
+        "Enable_debug": false
+    },
+    "ownerID": ["593536295507329049","593536295507329049"],
+    "Enable_MongoDB": true
+}
